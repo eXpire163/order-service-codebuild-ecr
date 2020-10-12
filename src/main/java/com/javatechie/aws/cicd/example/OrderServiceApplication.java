@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 @SpringBootApplication
 @RestController
-@RequestMapping("/orders")
+@RequestMapping("/order")
 public class OrderServiceApplication {
 
     @Autowired
